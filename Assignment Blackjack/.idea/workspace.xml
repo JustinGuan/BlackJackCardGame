@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1786fbd8-9cd2-456c-bc9a-6329b1b52cf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a92ssKYqhzR0kXr67NShMoRW7F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BlackJackCardGame">
+    <configuration name="BlackJackCardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackJackCardGame" />
+      <module name="Assignment Blackjack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackjackGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackjackGame" />
+      <module name="Assignment Blackjack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlackJackCardGame" />
+        <item itemvalue="Application.BlackjackGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1786fbd8-9cd2-456c-bc9a-6329b1b52cf1" name="Default Changelist" comment="" />
+      <created>1586133698174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586133698174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2486" height="398" key="GridCell.Tab.0.bottom" timestamp="1684469885830">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2486" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1684469885830" />
+    <state width="2486" height="398" key="GridCell.Tab.0.center" timestamp="1684469885829">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2486" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1684469885829" />
+    <state width="2486" height="398" key="GridCell.Tab.0.left" timestamp="1684469885829">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2486" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1684469885829" />
+    <state width="2486" height="398" key="GridCell.Tab.0.right" timestamp="1684469885830">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2486" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1684469885830" />
+    <state x="969" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1684467366167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="969" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1684467366167" />
+    <state x="655" y="320" key="new project wizard" timestamp="1684467740812">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="655" y="320" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1684467740812" />
+  </component>
+</project>
